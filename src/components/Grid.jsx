@@ -177,7 +177,7 @@ function Grid() {
                   id="algorithm"
                 >
                   <option value="dijkstra">Dijsktra</option>
-                  <option value="bfs">Bread-First-Search</option>
+                  <option value="bfs">Breadth-First-Search</option>
                 </select>
               </div>
               <div className="self-end">
