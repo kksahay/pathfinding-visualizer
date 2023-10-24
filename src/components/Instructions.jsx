@@ -10,7 +10,7 @@ function Instructions() {
         <div className="flex flex-col">
             <div className="flex">
                 <Node node={{isWall: true}}/>
-                <span className="font-medium ml-2 w-24">Weight</span>
+                <span className="font-medium ml-2 w-24">Wall</span>
                 <span>Click to add Wall</span>
             </div>
             <div className="flex">
